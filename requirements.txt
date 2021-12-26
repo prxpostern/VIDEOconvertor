@@ -2,4 +2,4 @@ python-decouple
 telethon
 ethon
 telethon-tgcrypto
-cryptg
+
